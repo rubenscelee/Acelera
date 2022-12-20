@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/segunda-aula/public/css/style.css">
+    <link rel="stylesheet" href="/segunda-aula/public/css/menu.css">
+    <style>
+        :root {
+            --gap: 3rem;
+            
+        }
+
+        html{
+            background: rgb(90, 89, 87);
+        }
+        .main-content{
+            max-width: 120rem;   
+            margin: 0 auto;
+            padding: 10rem var(--gap);       
+        }
+
+        .main-bg {
+            background-image: url("assets/img/main-bg.svg");
+            background-size: cover;
+            background-position: center center;
+        }  
+
+        .section {
+            min-height: 100vh;
+        }
+
+        .intro-content {
+            position: relative;
+            display: grid;
+            min-height: 100vh;
+
+        }
+
+        .intro-text-content {
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+            align-items: center;
+        }
+         
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Montserrat', sans-serif;
+        }
+        h1 {
+            font-size: 6rem;
+            text-transform: uppercase;
+        }
+        h2 {
+            font-size: 6rem;
+            margin-bottom: 5rem;
+            text-transform: uppercase;
+            line-height: 1.2;
+        }
+        h3 {
+            font-size: 5rem;
+        }
+        h4 {
+            font-size: 4.5rem;
+        }
+        h5 {
+            font-size: 4rem;
+        }
+        h6 {
+            font-size: 3.5rem;
+        }
+
+        
+      
+    </style>
+</head>
+<body>
+    <aside>
+        <nav>
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#Sobre">Sobre</a></li>
+                <li><a href="#Contato">Contato</a></li>
+            </ul>
+        </nav>
+    </aside>
+ 
+    <section id="home" class="main-bg section">
+        <div class="main-content intro-content">
+            <div class="intro-text-content">
+                <h1>Conteúdo</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem neque rerum voluptates distinctio quasi asperiores voluptatem ducimus atque hic ex provident tempore unde expedita, vero quo odio officia nemo earum.</p>
+            </div>
+        </div>
+    </section>
+     
+</body>
+</html>

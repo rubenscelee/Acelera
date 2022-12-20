@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KfR+FzayM46gE+GJrEmuUg4Qlbzt5WglcQpMz8Rj1g4=",
+  "Source": "Api_Postgres_",
+  "BasePath": "_content/Api_Postgres_",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

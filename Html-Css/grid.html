@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+ 
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            background: rgb(110, 109, 107);
+        }
+
+        .grid::after {  /* elimina os espaçamentos do grid */
+            content: '';
+            display: block;
+            clear: both
+        }
+
+        .grid {
+            padding: 10px;
+        }
+
+        .grid .col   {
+            width: 33.33%;
+            height: 300px;
+            float: left;
+            padding: 10px;
+        }
+
+        .grid .col-content {
+            width: 100%;
+            height: 100%;
+            background: red ;
+            border-radius: 10px ;
+            margin: 10px;
+            box-shadow: -5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+        }
+
+        .titulo {
+            display: block;
+        }
+
+        @media (max-width:320px){
+            .grid .col {
+                width: 100%;
+            }
+
+            .titulo {
+                display: none;
+            }
+        }        
+
+        @media (min-width:321px) and (max-width:780px){
+            .grid .col {
+                width: 50%;
+            }
+
+            .titulo {
+                color: blue;
+            }
+        }  
+
+        @media print {
+            .titulo {
+                color: rgb(145, 28, 129);
+            }
+
+            .grid {
+                display: none;
+            }
+             
+            .grid .col-content {
+                border: 2px solid red;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <h1 class="titulo">
+        titulo
+    </h1>
+    <div class="grid">
+        <div class="col">
+             <div class="col-content">
+                Conteúdo
+             </div>
+        </div>
+        <div class="col">
+            <div class="col-content">
+                Conteúdo
+             </div>
+        </div>
+        <div class="col">
+            <div class="col-content">
+                Conteúdo
+             </div>
+        </div>
+        <div class="col">
+            <div class="col-content">
+                Conteúdo
+             </div>
+        </div>
+        <div class="col">
+            <div class="col-content">
+                Conteúdo
+             </div>
+        </div>
+     </div>
+
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem officia eius voluptate aliquam saepe fugiat ut provident, aspernatur ipsum dolore repellendus veniam quaerat quas aperiam qui reprehenderit. Officia, soluta nostrum!</p>
+
+</body>
+</html>

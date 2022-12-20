@@ -1,0 +1,17 @@
+<p>contato works!</p>
+
+
+<form [formGroup] = "cadastroForm" (ngSubmit)="submitForm()">
+    <input type="text" formControlName="nome">
+    {{cadastroForm.get('nome')?.value}}
+    <input type="email" formControlName="email">
+    {{cadastroForm.get('email')?.value}}
+     
+
+    <br>
+
+    {{cadastroForm.get('nome')?.errors | json}}<br>
+    {{mensagem}}
+    <br>
+    <button [disabled]="cadastroForm.invalid" >Enviar</button>
+</form>
