@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sr7nqc0yvMqVHA4wwVCnv8JB+z+jHc06rC58b3cKUqzeaRq/ZuGo4qeIJ47uMpETHSAYvszPdqtfjJjySA/ovg==",
+  "dgSpecHash": "jdf4k833cuWSuLGZHq7v0bq94PAkWaeO9osyIZhD/zzIOpEsu6m59fBocufXxQLbf+t6Z/0RAcXO8abISFBoQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a852894\\Desktop\\Acelera\\FullStack_Angular_C#\\Api_Postgres_\\Api_Postgres_.csproj",
+  "projectFilePath": "c:\\Users\\a852894\\Desktop\\Acelera\\FullStack_Angular_C#\\Api_Postgres_\\Api_Postgres_.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a852894\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\a852894\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

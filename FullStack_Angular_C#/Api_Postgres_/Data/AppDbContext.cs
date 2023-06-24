@@ -7,7 +7,7 @@ namespace Api_Postgres_.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
-
+            
         }
 
         public DbSet<Aluno> alunos { get; set; }

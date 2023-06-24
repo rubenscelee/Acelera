@@ -1,0 +1,29 @@
+﻿@model Aula_02.NetFramework.Models.Alunos
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IncluirAlunoTipado</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.LabelFor(B => B.ID);
+            @Html.TextBoxFor(B => B.ID);
+            @Html.LabelFor(B => B.Nome);
+            @Html.TextBoxFor(B => B.Nome);
+            @Html.LabelFor(B => B.CPF);
+            @Html.TextBoxFor(B => B.CPF);
+            <input type="submit" value="Enviar" />
+        }
+
+    </div>
+</body>
+</html>

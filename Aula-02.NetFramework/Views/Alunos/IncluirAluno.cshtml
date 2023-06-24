@@ -1,0 +1,25 @@
+﻿@model Aula_02.NetFramework.Models.Alunos
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Incluir Aluno</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.Label("Codigo")<br />
+            @Html.TextBox("id")<br />
+            @Html.TextBox("Nome")<br />
+            <input type="submit" value="enviar" />
+        }
+    </div>
+</body>
+</html>

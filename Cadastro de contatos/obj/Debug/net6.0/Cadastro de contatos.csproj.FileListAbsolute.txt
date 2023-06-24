@@ -1,0 +1,54 @@
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\appsettings.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.staticwebassets.runtime.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.exe
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.deps.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.runtimeconfig.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Cadastro de contatos.pdb
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.csproj.AssemblyReference.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.AssemblyInfoInputs.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.AssemblyInfo.cs
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.csproj.CoreCompileInputs.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.RazorAssemblyInfo.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.RazorAssemblyInfo.cs
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets\msbuild.Cadastro de contatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets\msbuild.build.Cadastro de contatos.props
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro de contatos.props
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cadastro de contatos.props
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\scopedcss\bundle\Cadastro de contatos.styles.css
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\scopedcss\projectbundle\Cadastro de contatos.bundle.scp.css
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\refint\Cadastro de contatos.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.pdb
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.genruntimeconfig.cache
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\ref\Cadastro de contatos.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Npgsql.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\a852894\Desktop\Acelera\Cadastro de contatos\obj\Debug\net6.0\Cadastro de contatos.csproj.CopyComplete

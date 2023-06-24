@@ -1,0 +1,47 @@
+﻿@using Cadastro_de_contatos.Models;
+
+@model List<ContatoModel>
+
+@{
+    ViewData["Title"] = "Cadastro de Contatos";
+}
+
+<div class="text-center">
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-secondary" asp-controller="Contato" asp-action="Criar">Adicionar novo Contato</a>
+    </div>
+    <h3>Cadastro de Contatos</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nomme</th>
+                <th>Celular</th>
+                <th>E-mail</th>
+                <th>Aniversário</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model != null && Model.Any())
+            {
+                foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Nome</td>
+                        <td>@item.Celular</td>
+                        <td>@item.Email</td>
+                        <td>@item.Aniversario</td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="Acao">
+                                <button asp-route-id="@item.Id" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="Editar">Editar</button>
+                                <button asp-route-id="@item.Id" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="Excluir">Excluir</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+
+    <form action="" method="post">
+        <div class="form-group">
+            <label>Digite um número</label><br />
+            <input id="numero" type="text" name="numero" class="form-control" />
+        </div>
+        <div class="form-control">
+            <button type="submit" class="btn btn-info">Enviar</button>
+        </div>
+
+
+        @if (HttpMethods.IsPost(Request.Method))
+        {
+
+        }
+         
+    </form>
+    
+   
+</div>
